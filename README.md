@@ -8,3 +8,7 @@
 ## 🐯 CS
 
 - [HTML5의 가장 큰 특징](/CS/HTML5의%20가장%20큰%20특징.md)
+
+## 🐯 JavaScript
+
+- [식별자에 대해서](JavaScript/식별자.md)
