@@ -18,3 +18,5 @@
 - [동기와 비동기의 차이점](JavaScript/동기와%20비동기의%20차이점.md)
 
 - [forEach와 map 메서드의 차이점](JavaScript/forEach와%20map%20메서드의%20차이.md)
+
+- [프로토타입](JavaScript/프로토타입.md)
