@@ -21,6 +21,8 @@
 
 - [자바스크립트의 배열은 배열이 아니다?!](JavaScript/자바스크립트의%20배열은%20배열이%20아니다.md)
 
+- [배열의 메소드](JavaScript/배열의%20메소드.md)
+
 - [forEach와 map 메서드의 차이점](JavaScript/forEach와%20map%20메서드의%20차이.md)
 
 - [객체지향 프로그래밍](JavaScript/객체지향%20프로그래밍.md)
