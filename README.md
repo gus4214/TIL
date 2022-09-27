@@ -15,6 +15,8 @@
 
 ## 🐯 JavaScript
 
+- [프로그래밍이란?](JavaScript/프로그래밍이란.md)
+
 - [식별자에 대해서](JavaScript/식별자.md)
 
 - [동기와 비동기의 차이점](JavaScript/동기와%20비동기의%20차이점.md)
