@@ -16,7 +16,7 @@
 
 - [HTTP](CS/HTTP%20.md)
 
-## HTML & CSS
+## 🐯 HTML & CSS
 
 - [CSS 전처리기](<HTML&CSS/CSS%20전처리기%20(SCSS,%20SASS).md>)
 
