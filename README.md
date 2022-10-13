@@ -40,6 +40,10 @@
 
 - [forEach와 map 메서드의 차이점](JavaScript/forEach와%20map%20메서드의%20차이.md)
 
+- [비동기(Async)](<JavaScript/비동기%20(Async).md>)
+
+- [스코프](JavaScript/스코프.md)
+
 - [객체지향 프로그래밍](JavaScript/객체지향%20프로그래밍.md)
 
 - [프로토타입](JavaScript/프로토타입.md)
