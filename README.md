@@ -16,12 +16,6 @@
 
 - [HTTP](CS/HTTP%20.md)
 
-## 🐯 HTML & CSS
-
-- [CSS 전처리기](<HTML&CSS/CSS%20전처리기%20(SCSS,%20SASS).md>)
-
-- [CSS-in-JS](<HTML&CSS/CSS-in-JS%20(styled-components).md>)
-
 ## 🐯 JavaScript
 
 - [프로그래밍이란?](JavaScript/프로그래밍이란.md)
@@ -55,3 +49,7 @@
 - [useEffect](React/useEffect.md)
 
 - [virtual DOM](React/virtual%20DOM에%20대해서%20.md)
+
+- [CSS 전처리기](<HTML&CSS/CSS%20전처리기%20(SCSS,%20SASS).md>)
+
+- [CSS-in-JS](<HTML&CSS/CSS-in-JS%20(styled-components).md>)
