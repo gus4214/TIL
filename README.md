@@ -32,7 +32,7 @@
 
 - [함수](JavaScript/함수.md)
 
-- [객체 안의 함수](JavaScript/객체%20안의%20함수.md)
+- [클래스](JavaScript/클래스.md)
 
 - [동기와 비동기의 차이점](JavaScript/동기와%20비동기의%20차이점.md)
 
