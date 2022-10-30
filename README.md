@@ -52,6 +52,8 @@
 
 ## 🐯 React.js
 
+- [왜 리액트를 쓸까?](React/왜%20리액트를%20쓸까.md)
+
 - [useEffect](React/useEffect.md)
 
 - [virtual DOM](React/virtual%20DOM에%20대해서%20.md)
