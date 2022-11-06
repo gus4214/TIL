@@ -22,6 +22,8 @@
 
 - [API란?](<CS/API%20(Application%20Programming%20Interface).md>)
 
+- [REST API란?](CS/REST%20API.md)
+
 ## 🐯 JavaScript
 
 - [프로그래밍이란?](JavaScript/프로그래밍이란.md)
