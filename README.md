@@ -24,6 +24,8 @@
 
 - [REST API란?](CS/REST%20API.md)
 
+- [JWT란?](<CS/JWT(JSON%20Web%20Token).md>)
+
 ## 🐯 JavaScript
 
 - [프로그래밍이란?](JavaScript/프로그래밍이란.md)
