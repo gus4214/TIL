@@ -70,6 +70,8 @@
 
 - [리액트는 라이브러리? 프레임워크?](React/리액트는%20라이브러리?%20프레임워크?.md)
 
+- [sideEffects](React/Side%20Effects.md)
+
 - [useEffect](React/useEffect.md)
 
 - [virtual DOM](React/virtual%20DOM에%20대해서%20.md)
