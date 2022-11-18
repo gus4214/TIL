@@ -88,6 +88,8 @@
 
 - [리액트가 작동하는 방식](React/리액트가%20작동하는%20방식%20.md)
 
+- [State 스케줄링](React/State스케줄링.md)
+
 - [리액트 최적화(useMemo, useCallback)](<React/React%20&%20Optimization(최적화).md>)
 
 - [리덕스 작동방식 알아보기](React/리덕스%20작동방식%20알아보기.md)
